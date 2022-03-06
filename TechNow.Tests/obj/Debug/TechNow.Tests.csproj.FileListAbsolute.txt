@@ -1,0 +1,184 @@
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\WebGrease.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.AssemblyReference.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CopyComplete
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Common.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Common.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Common.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Common.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\TechNow.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow.Tests\obj\Debug\PNPGEAR.Tests.pdb

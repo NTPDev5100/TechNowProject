@@ -1,0 +1,55 @@
+﻿@model TechNow.Model.LoginCustomer
+
+@{
+    ViewBag.Title = "CustomerLogin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- Li's Breadcrumb Area End Here -->
+<!-- Begin Login Content Area -->
+<div class="page-section mb-60">
+    <div class="container">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mb-30">
+                    <!-- Login Form s-->
+                    <form action="#">
+                        <div class="login-form">
+
+                            <h4 class="login-title">Login</h4>
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="row">
+
+
+
+                            <div class="col-md-12 col-12 mb-20">
+                                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-12 mb-20">
+                                @Html.LabelFor(model => model.CodeCus, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.PasswordFor(model => model.CodeCus, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.CodeCus, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Sign In" class="btn btn-default" />
+                                </div>
+                                @Html.ActionLink("Don't have an account yet?Click here", "Resigter", "User")
+                            </div>
+                        </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+</div>

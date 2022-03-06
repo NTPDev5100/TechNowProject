@@ -1,0 +1,181 @@
+﻿@model Models.Framework.New
+@{
+    ViewBag.Title = "DetailNews";
+    Layout = "~/Views/Shared/_LayoutNew.cshtml";
+    var category = (Models.Framework.NewCategory)ViewBag.Category;
+    var relatedNews = (List<Models.Framework.New>)ViewBag.RelatedNews;
+    var listNewNews = (List<Models.Framework.New>)ViewBag.NewNews;
+    var ListFeatureNews = (List<Models.Framework.New>)ViewBag.ListFeatureNews;
+    var cateNews = (List<Models.Framework.NewCategory>)ViewBag.cateNews;
+}
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="Bootstrap News Template - Free HTML Templates" name="keywords">
+<meta content="Bootstrap News Template - Free HTML Templates" name="description">
+
+<!-- Favicon -->
+<link href="img/favicon.ico" rel="icon">
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
+
+<!-- CSS Libraries -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+<link href="~/Assets/Client/css/news/slick.css" rel="stylesheet">
+<link href="~/Assets/Client/css/news/slick-theme.css" rel="stylesheet">
+
+<!-- Template Stylesheet -->
+<link href="~/Assets/Client/css/news/style.css" rel="stylesheet">
+
+<!-- Breadcrumb Start -->
+<div class="breadcrumb-wrap">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/news">Home</a></li>
+            <li class="breadcrumb-item"><a href="/news">News</a></li>
+            <li class="breadcrumb-item active"><a href="/news/category/@category.MetaTitle-@category.NewCategoryID">@category.Name</a></li>
+        </ul>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<!-- Single News Start-->
+<div class="single-news">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="sn-container">
+                    <div class="sn-img">
+                        <img src="~/Assets/Client/images/news/@Model.NewImage" />
+                    </div>
+                    <div class="sn-content">
+                        <h1 class="sn-title">@Model.Title</h1>
+
+                        <h3>@Model.Description</h3>
+                        <p>
+                            @Html.Raw(Model.Detail)
+                        </p>
+
+                    </div>
+                </div>
+                <div class="sn-related">
+                    <h2>Tin tức liên quan</h2>
+                    <div class="row sn-slider">
+                        @foreach (var item in relatedNews)
+                        {
+                            var url = "/new/detail/" + item.MetaTitle + "-" + item.NewID;
+                            <div class="col-md-4">
+                                <div class="sn-img">
+                                    <img src="~/Assets/Client/images/news/@item.NewImage" />
+                                    <div class="sn-title">
+                                        <a href="@url">@item.Title</a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="sidebar">
+
+
+
+
+                    <div class="sidebar-widget">
+                        <div class="tab-news">
+                            <ul class="nav nav-pills nav-justified">
+
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="pill" href="#featured">Tin mới</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="pill" href="#popular">Tin nổi bật</a>
+                                </li>
+
+
+
+                            </ul>
+
+                            <div class="tab-content">
+                                <div id="featured" class="container tab-pane active">
+                                    @foreach (var item in listNewNews)
+                                    {
+                                        var url = "/new/detail/" + item.MetaTitle + "-" + item.NewID;
+                                        <div class="tn-news">
+                                            <div class="tn-img">
+                                                <img src="~/Assets/Client/images/news/@item.NewImage" />
+                                            </div>
+                                            <div class="tn-title">
+                                                <a href="@url">@item.Title</a>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+
+                                <div id="popular" class="container tab-pane fade">
+                                    @foreach (var item in ListFeatureNews)
+                                    {
+                                        var url = "/new/detail/" + item.MetaTitle + "-" + item.NewID;
+                                        <div class="tn-news">
+                                            <div class="tn-img">
+                                                <img src="~/Assets/Client/images/news/@item.NewImage" />
+                                            </div>
+                                            <div class="tn-title">
+                                                <a href="@url">@item.Title</a>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    @*<div class="sidebar-widget">
+                        <div class="image">
+                            <a href=""><img src="~/Assets/Client/images/logoTechNow.png" alt="Image"></a>
+                        </div>
+                    </div>*@
+
+                    <div class="sidebar-widget">
+                        <h2 class="sw-title">News Category</h2>
+                        <div class="category">
+                            <ul>
+                                @foreach (var item in cateNews)
+
+                                {
+                                    var url = "/news/category/" + item.MetaTitle + "-" + item.NewCategoryID;
+                                    <li><a href="@url"><h3>@item.Name</h3></a></li>
+                                }
+
+
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Single News End-->
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="~/Assets/Client/js/news/easing.min.js"></script>
+<script src="~/Assets/Client/js/news/slick.min.js"></script>
+
+<!-- Template Javascript -->
+<script src="~/Assets/Client/js/news/main.js"></script>
+
+
+

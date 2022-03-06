@@ -1,0 +1,6 @@
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\bin\Debug\Common.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\bin\Debug\Common.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\obj\Debug\Common.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Common\obj\Debug\Common.pdb

@@ -1,0 +1,21 @@
+﻿@model List<Models.Framework.Menu>
+
+<div class="header-bottom header-sticky d-none d-lg-block d-xl-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Header Bottom Menu Area -->
+                <div class="hb-menu">
+                    <nav>
+                        <ul>
+                            @foreach (var item in Model)
+                            {
+                                <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+                            }
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

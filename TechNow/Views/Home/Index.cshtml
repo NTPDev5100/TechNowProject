@@ -1,0 +1,245 @@
+﻿@model Models.Framework.Product
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var slides = (List<Models.Framework.Slider>)ViewBag.Slides;
+    var listNewProducts = (List<Models.Framework.Product>)ViewBag.NewProducts;
+    var listFeatureProducts = (List<Models.Framework.Product>)ViewBag.ListFeatureProducts;
+}
+
+
+<!-- Begin Slider With Category Menu Area -->
+<div class="slider-with-banner">
+    <div class="container">
+        <div class="row">
+            <!-- Begin Category Menu Area -->
+            @{Html.RenderAction("ProductCategory", "Product");}
+            <!-- Category Menu Area End Here -->
+            <!-- Begin Slider Area -->
+            <div class="col-lg-9">
+                <div class="slider-area pt-sm-30 pt-xs-30">
+                    <div class="slider-active owl-carousel">
+                        @foreach (var item in slides)
+                        {
+                            <div class="single-slide align-center-left animation-style-02">
+                                <a href="@item.Link"><img src="~/Assets/Client/images/slider/@item.Image" width="1800" height="400" /></a>
+                                <div class="slider-progress"></div>
+                                <div class="slider-content">
+                                    <h5>@item.Description</h5>
+                                </div>
+                            </div>
+
+                        }
+                        <!-- Begin Single Slide Area -->
+                        <!-- Single Slide Area End Here -->
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slider Area End Here -->
+        </div>
+    </div>
+</div>
+<!-- Slider With Category Menu Area End Here -->
+<!-- Begin Li's Static Banner Area -->
+<div class="li-static-banner pt-20 pt-sm-30 pt-xs-30" style="margin-top:55px;">
+    <div class="container">
+        <div class="row">
+            <!-- Begin Single Banner Area -->
+            <div class="col-lg-4 col-md-4">
+                <div class="single-banner pb-xs-30">
+                    <a href="">
+                        <img src="~/Assets/Client/images/banner/mobile-rainbowwave.gif" alt="Computer man" width="370"; height="230" >
+                    </a>
+                </div>
+            </div>
+            <!-- Single Banner Area End Here -->
+            <!-- Begin Single Banner Area -->
+            <div class="col-lg-4 col-md-4">
+                <div class="single-banner pb-xs-30">
+                    <a href="#">
+                        <img src="~/Assets/Client/images/banner/badfsqoe2vbib30u4fir.gif"  alt="Computer man" width="370"; height="230">
+                    </a>
+                </div>
+            </div>
+            <!-- Single Banner Area End Here -->
+            <!-- Begin Single Banner Area -->
+            <div class="col-lg-4 col-md-4">
+                <div class="single-banner">
+                    <a href="#">
+                        <img src="~/Assets/Client/images/banner/giphy.gif" alt="Computer man" width="370"; height="230">
+                    </a>
+                </div>
+            </div>
+            <!-- Single Banner Area End Here -->
+        </div>
+    </div>
+</div>
+<!-- Li's Static Banner Area End Here -->
+<!-- Begin Li's Special Product Area -->
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <!-- Begin Li's Section Area -->
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>New Product</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+                        <!-- single-product-wrap start -->
+
+                        @foreach (var item in listNewProducts)
+                        {
+
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">New</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+                                         
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                    <!-- single-product-wrap end -->
+                </div>
+
+            </div>
+
+            <!-- Li's Section Area End Here -->
+        </div>
+    </div>
+</section>
+<!-- Li's Special Product Area End Here -->
+<!-- Begin Li's Static Home Area -->
+<div class="li-static-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Li's Static Home Image Area -->
+                <div class="li-static-home-image"></div>
+                <!-- Li's Static Home Image Area End Here -->
+                <!-- Begin Li's Static Home Content Area 
+                <div class="li-static-home-content">
+                    <p style="color:white">Sale Offer<span>-20% Off</span>This Week</p>
+                    <h2 style="color:white">Featured Product</h2>
+                    <h2 style="color:white">Meito Accessories 2022</h2>
+                </div>
+                Li's Static Home Content Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Li's Static Home Area End Here -->
+<!-- Begin Li's Trending Product | Home V2 Area -->
+
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <!-- Begin Li's Section Area -->
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>Trending Products</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+
+                        <!-- single-product-wrap start -->
+                        @foreach (var item in listFeatureProducts)
+                        {
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">Hot</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+                                           
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                           
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                        <!-- single-product-wrap end -->
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+        <!-- Tab Menu Content Area End Here -->
+    </div>
+    <!-- Tab Menu Area End Here -->
+
+</section>
+<!-- Li's Trending Product | Home V2 Area End Here -->

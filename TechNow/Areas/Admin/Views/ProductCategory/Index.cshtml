@@ -1,0 +1,87 @@
+﻿@model PagedList.IPagedList<Models.Framework.ProductCategory>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Quan ly danh muc san pham";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@*@section header{
+    Danh sach nguoi dung}*@
+<!-- DataTales Example -->
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">DataTables Product Category</h6>
+    </div>
+    <div class="card-body">
+        <p>
+            @Html.ActionLink("Create New", "Create", "ProductCategory")
+        </p>
+
+        @using (Html.BeginForm("Index", "ProductCategory", FormMethod.Get))
+        {
+
+            <!-- Topbar Search -->
+                    <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+                        <div class="input-group">
+
+                            <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." name="searchString" value="@ViewBag.SearchString"
+                                   aria-label="Search" aria-describedby="basic-addon2"/>
+                            <div class="input-group-append">
+                                <button class="btn btn-primary" type="submit">
+                                    <i class="fas fa-search fa-sm"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+        }
+
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>MetaTitle</th>
+                        <th>ParentID</th>
+                        <th>DisplayOrder</th>
+                        <th>SeoTitle</th>
+                        <th>Created Date</th>
+                        <th>Status</th>
+                        <th>ShowOnHome</th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr id="row_@item.CategoryID">
+                            <td>@item.Name</td>
+                            <td>@item.MetaTitle</td>
+                            <td>@item.ParentID</td>
+                            <td>@item.DisplayOrder.GetValueOrDefault(0)</td>
+                            <td>@item.SeoTitle</td>
+                            <td>@(item.CreatedDate.HasValue? @item.CreatedDate.Value.ToString("dd/MM/yyyy") : "")</td>
+                            <td>@(item.Status?"Active":"Block")</td>
+                            <td>@(item.ShowOnHome?"Active":"Block")</td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryID })
+                                @Html.ActionLink("Details", "Details", new { id = item.CategoryID })
+                                @Ajax.ActionLink("Delete", "Delete", new { id = item.CategoryID }, new AjaxOptions
+                           {
+                               Confirm = "Ban co muon xoa ban ghi nay?",
+                                    OnComplete = "$('#row_" + item.CategoryID + "').remove()",
+                               HttpMethod = "Delete"
+                           })
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+            <br />
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = ViewBag.SearchString }))
+        </div>
+    </div>
+</div>
+

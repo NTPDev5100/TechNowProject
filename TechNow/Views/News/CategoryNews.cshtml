@@ -1,0 +1,65 @@
+﻿@model List<Models.Framework.New>
+@{
+    ViewBag.Title = "CategoryNews";
+    Layout = "~/Views/Shared/_LayoutNew.cshtml";
+    var category = (Models.Framework.NewCategory)ViewBag.NewCategory;
+}
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/Assets/Client/categoryNews/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="~/Assets/Client/categoryNews/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="~/Assets/Client/categoryNews/move-top.js"></script>
+    <script type="text/javascript" src="~/Assets/Client/categoryNews/easing.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="breadcrumb-wrap">
+            <div class="container">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/news">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/news">News</a></li>
+                    <li class="breadcrumb-item active"><a href="/news/@category.MetaTitle-@category.NewCategoryID">@category.Name</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="main">
+            <div class="content">
+
+
+                @foreach (var item in Model)
+                {
+                    var url = "/new/detail/" + item.MetaTitle + "-" + item.NewID;
+                    <div class="image group">
+
+                        <div class="grid images_3_of_1">
+
+                            <img src="~/Assets/Client/images/news/@item.NewImage" alt="" />
+                        </div>
+                        <div class="grid news_desc">
+                            <a href="@url"><h3>@item.Title</h3></a>
+                            <h4>Posted on @item.CreatedDate</h4>
+                            <h5>@item.Description</h5>
+                            <p>@item.Detail</p>
+                        </div>
+                    </div>
+                }
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+$(document).ready(function() {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+
+		});</script>
+
+</body>
+
+
+

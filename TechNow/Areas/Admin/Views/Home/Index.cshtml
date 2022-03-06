@@ -1,0 +1,698 @@
+﻿
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Assets/Client/js/chart/highcharts.js"></script>
+<script src="~/Assets/Client/js/chart/exporting.js"></script>
+@{
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+<!-- Content Row -->
+
+<div class="row">
+    <h2 style="margin:0 auto;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif, Times, serif">View Card</h2>
+</div>
+
+
+<div class="row">
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-primary shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                            Total USER
+
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800"> @ViewBag.Count</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-user fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-success shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                            Total Category
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">
+                            @ViewBag.CountCategory
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Earnings (Monthly) Card Example -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-success shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                            Total Order
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">
+                            @ViewBag.CountOrder
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pending Requests Card Example -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-warning shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                            Total Slider
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.CountSlider</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-comments fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <h2 style="margin:0 auto; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif, Times, serif">Statistics</h2>
+</div>
+
+
+<!-- Chart Revenue -->
+<div class="row">
+    <div class="col-xl-8 col-lg-7">
+        <div class="card shadow mb-4" style="height:590px">
+            <div id="container" style="padding:70px"></div>
+        </div>
+    </div>
+    <div class="col-xl-4 col-lg-5">
+        <!-- Earnings (Monthly) Card Example for revenue -->
+        <div class="row">
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    January
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev1)</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    February
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev2)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    March
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev3)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    April
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev4)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    May
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev5)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    June
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev6)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    July
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev7)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    August
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev8)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    September
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev9)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    October
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev10)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    November
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev11)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    December
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Rev12)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr width="50%" align="center" />
+
+<!-- Chart Profit -->
+<div class="row">
+    <div class="col-xl-8 col-lg-7">
+        <figure class="card shadow mb-4" style="height:590px">
+            <div id="container-profit" style="padding:70px"></div>
+        </figure>
+    </div>
+    <div class="col-xl-4 col-lg-5">
+        <!-- Earnings (Monthly) Card Example for profit -->
+        <div class="row">
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    January
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit1)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    February
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit2)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    March
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit3)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    April
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit4)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    May
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit5)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    June
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit6)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    July
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit7)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    August
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit8)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    September
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit9)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    October
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit10)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    November
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit11)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-0">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-0">
+                                    December
+
+                                </div>
+                                <div class="h6 mb-0 font-weight-bold text-gray-800">@string.Format(info, "{0:#,#$}", ViewBag.Profit12)</div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-xl-auto col-lg-7">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Bar Chart</h6>
+        </div>
+        <div class="card-body">
+            <div class="chart-bar">
+                <canvas id="myBarChart"></canvas>
+            </div>
+            <hr>
+            
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+
+
+
+    $(document).ready(function () {
+        $.getJSON("/Admin/Home/GetData", function (resutl) {
+            Highcharts.chart('container', {
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                title: {
+                    text: 'Revenue Statistics chart in 2022'
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: true,
+                            format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                        }
+                    }
+                },
+                series: [{
+                    name: 'Brands',
+                    colorByPoint: true,
+
+                    data: [{
+                        name: 'January',
+                        y: resutl.TKDTT1
+
+                    }, {
+                        name: 'February',
+                        y: resutl.TKDTT2
+                    }, {
+                        name: 'March',
+                        y: resutl.TKDTT3
+                    }, {
+                        name: 'April',
+                        y: resutl.TKDTT4
+                    }, {
+                        name: 'May',
+                        y: resutl.TKDTT5
+                    }, {
+                        name: 'June',
+                        y: resutl.TKDTT6
+                    }, {
+                        name: 'July',
+                        y: resutl.TKDTT7
+                    }, {
+                        name: 'August',
+                        y: resutl.TKDTT8
+                    }, {
+                        name: 'September',
+                        y: resutl.TKDTT9
+                    }, {
+                        name: 'October',
+                        y: resutl.TKDTT10
+                    }, {
+                        name: 'November',
+                        y: resutl.TKDTT11
+                    }, {
+                        name: 'December',
+                        y: resutl.TKDTT12
+                    }]
+                }]
+            });
+        });
+    });
+
+
+
+
+</script>
+<script>
+
+
+
+
+    $(document).ready(function () {
+        $.getJSON("/Admin/Home/GetDataProfit", function (resutlprofit) {
+            Highcharts.chart('container-profit', {
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                title: {
+                    text: 'Benefit Statistics chart in 2022'
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: true,
+                            format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                        }
+                    }
+                },
+                series: [{
+                    name: 'Brands',
+                    colorByPoint: true,
+
+                    data: [{
+                        name: 'January',
+                        y: resutlprofit.TKLNT1
+
+                    }, {
+                        name: 'February',
+                        y: resutlprofit.TKLNT2
+                    }, {
+                        name: 'March',
+                        y: resutlprofit.TKLNT3
+                    }, {
+                        name: 'April',
+                        y: resutlprofit.TKLNT4
+                    }, {
+                        name: 'May',
+                        y: resutlprofit.TKLNT5
+                    }, {
+                        name: 'June',
+                        y: resutlprofit.TKLNT6
+                    }, {
+                        name: 'July',
+                        y: resutlprofit.TKLNT7
+                    }, {
+                        name: 'August',
+                        y: resutlprofit.TKLNT8
+                    }, {
+                        name: 'September',
+                        y: resutlprofit.TKLNT9
+                    }, {
+                        name: 'October',
+                        y: resutlprofit.TKLNT10
+                    }, {
+                        name: 'November',
+                        y: resutlprofit.TKLNT11
+                    }, {
+                        name: 'December',
+                        y: resutlprofit.TKLNT12
+                    }]
+                }]
+            });
+        });
+    });
+
+
+
+
+</script>

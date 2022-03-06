@@ -1,0 +1,327 @@
+﻿@model Models.Framework.Product
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listNewProducts1 = (List<Models.Framework.Product>)ViewBag.ListByCategoryId1;
+    var listNewProducts2 = (List<Models.Framework.Product>)ViewBag.ListByCategoryId2;
+    var listNewProducts3 = (List<Models.Framework.Product>)ViewBag.ListByCategoryId3;
+    var listNewProducts4 = (List<Models.Framework.Product>)ViewBag.ListByCategoryId4;
+}
+<!-- Begin Li's Static Home Area -->
+<div class="li-static-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Li's Static Home Image Area -->
+                <div class="li-static-home-image1-cpu"></div>
+                <!-- Li's Static Home Image Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Li's Static Home Area End Here -->
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>CPU</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+                        <!-- single-product-wrap start -->
+
+                        @foreach (var item in listNewProducts1)
+                        {
+
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">New</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                    <!-- single-product-wrap end -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Begin Li's Static Home Area -->
+<div class="li-static-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Li's Static Home Image Area -->
+                <div class="li-static-home-image2-vga"></div>
+                <!-- Li's Static Home Image Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Li's Static Home Area End Here -->
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>VGA</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+                        <!-- single-product-wrap start -->
+
+                        @foreach (var item in listNewProducts2)
+                        {
+
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">New</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                    <!-- single-product-wrap end -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Begin Li's Static Home Area -->
+<div class="li-static-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Li's Static Home Image Area -->
+                <div class="li-static-home-image3-mainboard"></div>
+                <!-- Li's Static Home Image Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Li's Static Home Area End Here -->
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>Main Board</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+                        <!-- single-product-wrap start -->
+
+                        @foreach (var item in listNewProducts3)
+                        {
+
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">New</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                    <!-- single-product-wrap end -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Begin Li's Static Home Area -->
+<div class="li-static-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Li's Static Home Image Area -->
+                <div class="li-static-home-image4-ram"></div>
+                <!-- Li's Static Home Image Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Li's Static Home Area End Here -->
+<section class="product-area li-laptop-product Special-product pt-60 pb-45">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="li-section-title">
+                    <h2>
+                        <span>RAM</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="special-product-active owl-carousel">
+                        <!-- single-product-wrap start -->
+
+                        @foreach (var item in listNewProducts4)
+                        {
+
+                            var url = "/Detail/" + item.MetaTitle + "-" + item.ProductID;
+
+                            <div class="col-lg-12">
+                                <div class="single-product-wrap">
+                                    <div class="product-image">
+                                        <a href="@url">
+                                            <img style="width:240px;height:240px" src="~/Data/@item.ProductImage" alt="@item.ProductName">
+                                        </a>
+                                        <span class="sticker">New</span>
+                                    </div>
+                                    <div class="product_desc">
+                                        <div class="product_desc_info">
+                                            <div class="product-review">
+                                                <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                </h5>
+                                                <div class="rating-box">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                        <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <h4><a class="product_name" href="@url">@item.ProductName</a></h4>
+                                            <div class="price-box">
+                                                <span class="new-price">@(item.Price.HasValue?item.Price.Value.ToString("N0"):"Contact")</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="add-actions">
+                                            <ul class="add-actions-link">
+                                                <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                    <!-- single-product-wrap end -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

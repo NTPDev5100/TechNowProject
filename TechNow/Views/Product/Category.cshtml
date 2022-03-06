@@ -1,0 +1,151 @@
+﻿@model List<Models.Framework.Product>
+
+@{
+    var category = (Models.Framework.ProductCategory)ViewBag.ProductCategory;
+    ViewBag.Title = category.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!-- Begin Li's Trending Product | Home V2 Area -->
+<section class="product-area li-trending-product li-trending-product-2 pt-60 pb-85">
+    <div class="container">
+        <div class="row">
+
+            <!-- Begin Category Menu Area -->
+            @{Html.RenderAction("ProductCategory", "Product");}
+            <!-- Category Menu Area End Here -->
+            <!-- Begin Li's Tab Menu Area -->
+            <div class="col-lg-9">
+                <div class="li-product-tab li-trending-product-tab">
+                    <h2>
+                        <span>@category.Name</span>
+                    </h2>
+                   
+                </div>
+                <!-- Begin Li's Tab Menu Content Area -->
+                <div class="tab-content li-tab-content li-trending-product-content">
+                    <div id="home1" class="tab-pane show fade in active">
+                        <div class="row">
+                            <div class="special-product-active owl-carousel">
+
+                                <!-- single-product-wrap start -->
+                                @foreach (var item in Model)
+                                {
+                                    var link = "/detail/" + item.MetaTitle + "-" + item.ProductID;
+                                    <div class="col-lg-12">
+                                        <div class="single-product-wrap">
+                                            <div class="product-image">
+                                                <a href="@link">
+                                                    <img src="~/Data/@item.ProductImage" alt="Li's Product Image">
+                                                </a>
+                                            </div>
+                                            <div class="product_desc">
+                                                <div class="product_desc_info">
+                                                    <div class="product-review">
+                                                        <h5 class="manufacturer">
+                                                            <a href="shop-left-sidebar.html">Graphic Corner</a>
+                                                        </h5>
+                                                        <div class="rating-box">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                                <li class="no-star"><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <h4><a class="product_name" href="@link">@item.ProductName</a></h4>
+                                                    <div class="price-box">
+                                                        <span class="new-price">@(item.Price.HasValue? item.Price.Value.ToString("N0"):"Please contact")</span>
+                                                    </div>
+                                                </div>
+                                                <div class="add-actions">
+                                                    <ul class="add-actions-link">
+                                                        <li class="add-cart active"><a href="~/ShoppingCart/AddtoCard/@item.ProductID">Add to cart</a></li>
+                                              
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+
+                                <!-- single-product-wrap end -->
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <!-- Tab Menu Content Area End Here -->
+                <!--list Paging-->
+                @if (ViewBag.TotalPage > 1)
+                {
+                    var pageDisplay = (int)ViewBag.MaxPage;
+                    int totalPage = (int)ViewBag.TotalPage;
+                    int currentPage = ((int)ViewBag.Page);
+
+                    //create numberic links
+                    var startPageIndex = Math.Max(1, currentPage - pageDisplay / 2);
+                    var endPageIndex = Math.Max(totalPage, currentPage + pageDisplay / 2);
+
+                    var link = "/shopping-site/" + category.MetaTitle + "-" + category.CategoryID;
+
+                    <div class="paginatoin-area">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <ul class="pagination-box pt-xs-20 pb-xs-15">
+                                    @if (currentPage > ViewBag.First)
+                                    {
+                                        <li><a href="@link?page=@ViewBag.First" class="first"><i class="fa fa-angle-double-left"></i> First page</a></li>
+                                        <li><a href="@link?page=@ViewBag.Prev" class="prev"><i class="fa fa-chevron-left"></i> Previous</a></li>
+                                    }
+                                    @for (int i = startPageIndex; i < endPageIndex; i++)
+                                    {
+                                        if (currentPage == i)
+                                        {
+                                            <li><a href="@link?page=@i" class="active" title="Page @i">@i</a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a href="@link?page=@i" class="pos-product-active" title="Page @i">@i</a></li>
+                                        }
+                                    }
+                                    @if (currentPage < ViewBag.totalPage)
+                                    {
+                                        <li><a href="@link?page=@ViewBag.Next" class="next"><i class="fa fa-chevron-right"></i> Next</a></li>
+                                        <li><a href="@link?page=@ViewBag.Last" class="last"><i class="fa fa-angle-double-right"></i> Last Page</a></li>
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <span>No Paging</span>
+                }
+
+
+
+
+
+
+
+
+
+
+                <!-- Tab Menu Area End Here -->
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+</section>
+<!-- Li's Trending Product | Home V2 Area End Here -->

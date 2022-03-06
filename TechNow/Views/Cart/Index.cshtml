@@ -1,0 +1,33 @@
+﻿@model List<TechNow.Model.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Product Code</td>
+            <td>Product Name</td>
+            <td>Image</td>
+            <td>Quantity</td>
+            <td>Unit Price</td>
+            <td>Total per Item</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<td>@item.Product.ProductCode</td>
+                <td>@item.Product.ProductName</td>
+                <td><img src="~/Data/@item.Product.ProductImage" width="100"/></td>
+                <td><input type="text" class="quantity" value="@item.Quantity"/></td>
+                <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
+                <td>@((item.Product.Price.GetValueOrDefault(0)*item.Quantity).ToString("N0"))</td>*@
+            </tr>
+}
+
+    </tbody>
+</table>
+

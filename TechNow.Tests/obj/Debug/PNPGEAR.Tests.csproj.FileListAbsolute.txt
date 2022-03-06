@@ -1,0 +1,180 @@
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csprojAssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\WebGrease.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.pdb
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll.config
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.pdb
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll.config
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csprojAssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.Tests.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PNPGEAR.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\PNPGEAR.Tests\obj\Debug\PNPGEAR.Tests.pdb

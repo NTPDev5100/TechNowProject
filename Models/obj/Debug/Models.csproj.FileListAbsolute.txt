@@ -1,0 +1,231 @@
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll.config
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.pdb
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.dll
+C:\Users\Admin\Desktop\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\PNPGEAR\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\Models.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\obj\Debug\Models.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\Models\obj\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\obj\Debug\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\Models\obj\Debug\Models.pdb

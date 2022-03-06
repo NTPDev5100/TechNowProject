@@ -1,0 +1,76 @@
+﻿@model List<Models.Framework.Menu>
+<div class="container">
+    <div class="row">
+        <!-- Begin Header Top Left Area -->
+        <div class="col-lg-3 col-md-4">
+            <div class="header-top-left">
+                <ul class="phone-wrap">
+                    <li><span>Telephone Enquiry:</span><a href="#">(+849)457 660 143</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Header Top Left Area End Here -->
+        <!-- Begin Header Top Right Area -->
+
+        <div class="col-lg-9 col-md-8">
+
+            <div class="header-top-right">
+                @{
+                    var session = (TechNow.Common.CusLogin)Session[TechNow.Common.CommonConstants.CUSTOMER_SESSTION];
+                }
+                @if (session == null)
+                {
+                    <ul class="ht-menu">
+                        @foreach (var item in Model)
+                        {
+                            <li>
+                                <span><a href="@item.Link" target="@item.Target">@item.Text</a></span>
+                            </li>
+
+                        }
+
+                    </ul>
+
+                }
+                else
+                {
+                    <ul class="ht-menu">
+                        <li><div class="ht-setting-trigger"><span>Welcome : @session.Email</span></div></li>
+                        <li><span>@Html.ActionLink("Log Out", "Logout", "Customers")</span></li>
+                    </ul>
+                }
+
+                <!-- Begin Setting Area -->
+                <!--<li>
+    <div class="ht-setting-trigger"><span>Setting</span></div>-->
+                @*<div class="setting ht-setting">
+            @{
+                var session = (TechNow.Common.UserLogin)Session[TechNow.Common.CommonConstants.ADMIN_SESSION];
+            }
+            @if (session == null)
+                            {
+                <ul class="ht-setting-list">
+                    @foreach (var item in Model)
+                    {
+                        <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+                    }
+
+                </ul>
+
+            }
+            else
+            {
+                <ul class="ht-menu">
+                    <li><div class="ht-setting-trigger"><span>welcome : @session.UserName</span></div></li>
+                </ul>
+            }
+
+        </div>*@
+                <!--</li>-->
+                <!-- Setting Area End Here -->
+                <!--</ul>-->
+            </div>
+        </div>
+        <!-- Header Top Right Area End Here -->
+    </div>
+</div>

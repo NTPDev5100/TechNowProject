@@ -1,0 +1,104 @@
+﻿@model Models.Framework.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    var listProductOrderDetails = (List<Models.Framework.OrderDetail>)ViewBag.ListByOrderId;
+}
+@{
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+
+
+<div>
+    <h2>Details</h2>
+    <h4>Order</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Product ID</td>
+                <td>Quantity</td>
+                <td>Unit Price</td>
+                <td>Total per Item</td>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in listProductOrderDetails)
+            {
+                decimal total = Convert.ToDecimal(item.Price * item.Quantity);
+                <tr>
+                    <td>@Html.DisplayFor(model => item.ProductID) </td>
+                    <td>@Html.DisplayFor(model => item.Quantity) </td>
+                    <td> @string.Format(info, "{0:#,#} VND", item.Price) </td>
+                    <td>Total:  @string.Format(info, "{0:#,#} VND", @total)</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodeCus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodeCus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShipName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShipName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShipMobile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShipMobile)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShipAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShipAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShipEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShipEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+    </dl>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
+

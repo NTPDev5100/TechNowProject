@@ -1,0 +1,464 @@
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csc.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csc.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csi.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csi.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\csi.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.AppContext.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Console.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Net.Http.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\vbc.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\vbc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\vbc.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\obj\Debug\TechNow.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\obj\Debug\TechNow.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\obj\Debug\TechNow.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\obj\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectPNPGEAR\ProjectPNPGEAR\TechNow\TechNow\obj\Debug\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.AppContext.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Console.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Http.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.rsp
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectPNPGEAR\ProjectTechNow\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\TechNow.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.rsp
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.rsp
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.AppContext.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Console.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Http.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.ValueTuple.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.rsp
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Models.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Owin.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\PagedList.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\WebGrease.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Models.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Models.dll.config
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\PagedList.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.AssemblyReference.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CoreCompileInputs.cache
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CopyComplete
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.pdb
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Common.dll
+C:\Users\kimxu\OneDrive\Desktop\drive-download-20220112T155800Z-001\ProjectTechNow\TechNow\TechNow\bin\Common.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\TechNow.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csc.rsp
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.exe.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\csi.rsp
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.AppContext.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Console.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Http.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.exe.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\vbc.rsp
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Common.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Models.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Owin.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\PagedList.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\WebGrease.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Common.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Models.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Models.dll.config
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\EntityFramework.SqlServer.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Newtonsoft.Json.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\PagedList.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\PagedList.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Helpers.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Mvc.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Optimization.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Antlr3.Runtime.pdb
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.AssemblyReference.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CoreCompileInputs.cache
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.csproj.CopyComplete
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.dll
+C:\Users\Tien Phat\Desktop\ProjectTechNow\TechNow\TechNow\obj\Debug\TechNow.pdb

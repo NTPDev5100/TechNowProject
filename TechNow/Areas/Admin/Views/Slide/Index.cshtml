@@ -1,0 +1,84 @@
+﻿@model PagedList.IPagedList<Models.Framework.Slider>
+@using PagedList.Mvc;
+
+
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    }
+
+    <!-- DataTales Example -->
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Slide</h6>
+        </div>
+        <div class="card-body">
+            <p>
+                @Html.ActionLink("Create New", "Create", "Slide")
+            </p>
+
+            @using (Html.BeginForm("Index", "Slide", FormMethod.Get))
+            {
+                <!-- Topbar Search -->
+                <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+                    <div class="input-group">
+
+                        <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." name="searchString" value="@ViewBag.SearchString"
+                               aria-label="Search" aria-describedby="basic-addon2" />
+                        <div class="input-group-append">
+                            <button class="btn btn-primary" type="submit">
+                                <i class="fas fa-search fa-sm"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            }
+
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Display Order</th>
+                            <th>Link</th>
+                            <th>Description</th>
+                            <th>Create Date</th>
+                            <th>Create By</th>
+                            <th>Status</th>
+                            <th></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr id="row_@item.SlideID">
+                                <td><img style="width:80px;height:70px" src="~/Assets/Client/images/slider/@item.Image" /></td>
+                                <td>@item.DisplayOrder</td>
+                                <td>@item.Link</td>
+                                <td>@item.Description</td>
+                                <td>@(item.CreatedDate.HasValue? @item.CreatedDate.Value.ToString("dd/MM/yyyy") : "")</td>
+                                <td>@item.CreatedBy</td>
+                                <td>@(item.Status?"Active":"Block")</td>
+
+                                <td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.SlideID })
+                                    @Html.ActionLink("Details", "Details", new { id = item.SlideID })
+                                    @Ajax.ActionLink("Delete", "Delete", new { id = item.SlideID }, new AjaxOptions
+                               {
+                                   Confirm = "Ban co muon xoa ban ghi nay?",
+                                        OnComplete = "$('#row_" + item.SlideID + "').remove()",
+                                   HttpMethod = "Delete"
+                               })
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+                <br />
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = ViewBag.SearchString }))
+            </div>
+        </div>
+    </div>

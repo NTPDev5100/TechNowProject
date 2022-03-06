@@ -1,0 +1,73 @@
+﻿@model PagedList.IPagedList<Models.Framework.Order>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<!-- DataTales Example -->
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">DataTables Order</h6>
+    </div>
+    <div class="card-body">
+
+        @using (Html.BeginForm("Index", "Order", FormMethod.Get))
+        {
+            <!-- Topbar Search -->
+            <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+                <div class="input-group">
+
+                    <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." name="searchString" value="@ViewBag.SearchString"
+                           aria-label="Search" aria-describedby="basic-addon2" />
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="submit">
+                            <i class="fas fa-search fa-sm"></i>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        }
+
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Create Date</th>
+                        @*<th>Code Customer</th>*@
+                        <th>ShipName</th>
+                        <th>ShipMobile</th>
+                        <th>ShipAddress</th>
+                        <th>ShipEmail</th>
+                        <th>Status</th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr id="row_@item.OrderID">
+                        <td>@(item.CreatedDate.HasValue? @item.CreatedDate.Value.ToString("dd/MM/yyyy") : "")</td>
+                        @*<td>@item.CodeCus</td>*@
+                        <td>@item.ShipName</td>
+                        <td>@item.ShipMobile</td>
+                        <td>@item.ShipAddress</td>
+                        <td>@item.ShipEmail</td>
+                        <td>@(item.Status?"Active":"Block")</td>
+                        <td>
+                          
+                            @Html.ActionLink("Details", "Details", new { id = item.OrderID })
+                           
+                        </td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+            <br />
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = ViewBag.SearchString }))
+        </div>
+    </div>
+</div>
